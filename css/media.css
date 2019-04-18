@@ -1,0 +1,76 @@
+@media (max-width:940px){
+
+.header,.banner,#container,.footer,.Copyright{width:95% }
+.panel-wrap,.bot-box,.gallery,.bot-panel,img{width:100%;}
+.panel{ width:26%;}
+.text-box{ width:60%;}
+.gallery-box{ width:23%; margin-right:17px;}
+.bot-panel{ width:40%; padding:21px 0px;}
+.bot-panel .btn a{ clear:both;}
+.primary-col{ width:54%;}
+.side-bar{ width:34%; margin:0;}
+
+ }
+	
+@media (max-width:800px){
+.nav{ width:57%; margin-left:5%;}
+.menu ul li a{margin-right:30px;}
+.panel{ width:25%;}
+.gallery-box{ width:23%; margin-right:15px;}	
+    
+}
+@media (max-width:768px){
+.logo {width:15%;}
+.nav {width:57%;}
+.menu ul li a{margin-right:30px;}
+.text-box{ width:57%;}
+.gallery-box{ width:43%; margin:16px;}
+.g_hover{ width:100%;}
+.gallery-box:hover .g_hover i{margin-left:45%;}
+.gallery-box img{width:76%;}
+}
+
+@media (max-width:640px){		
+.search{ display:none;}
+.prmenu_container ul {margin:0 0 0 60px !important;}
+.panel{ width:100%; margin:20px 0;}
+.text-box{ width:50%;}	
+}
+
+@media (max-width:600px){
+
+.text-box{ width:45%;}
+.primary-col{ width:90%;}
+.side-bar{ width:90%; margin:30px 0!important;}
+	
+}
+@media (max-width:480px){
+.logo {width:25%;}
+.banner{ width:95%;}
+.da-slider,#da-slider{min-width:100%; }
+.text-box{ width:95%; margin:10px;}
+.buy-btn{ margin:10px; float:left;}	
+.gallery-box{ width:95%; height:100%; margin:16px;}
+.g_hover{ width:100%;  height:100%;}
+.gallery-box:hover .g_hover i{margin-left:45%; margin-top:27%;}
+.bot-panel{ width:37%;}
+	
+}
+@media (max-width:360px){
+.header{width:95%;}
+.logo{ margin:21px 0; width:27%;}
+.banner{width:100%; margin:0px !important; padding:0px !important;}
+.da-slider,#da-slider{min-width:100%; }
+.da-slider,#da-slider h2{font-size:30px; }
+.panel-wrap{ margin:0px !important;}
+.bot-panel{ width:70%; padding:21px 0px;}
+.Copyright-content {margin-left:70px;}
+.social{ float:left; margin-left:100px; padding-bottom:10px;}
+    
+	}
+@media (max-width:320px){
+.Copyright-content {margin-left:50px;}
+.social{ float:left; margin-left:79px; padding-bottom:10px;}
+	
+
+}
